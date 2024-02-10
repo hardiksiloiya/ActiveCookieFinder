@@ -1,0 +1,6 @@
+cookie,timestamp
+CookieA12345,2018-12-08T14:19:00+00:00
+malformed line
+CookieB67890,2018-12-08T10:13:00+00:00
+Another, malformed, line
+CookieA12345,2018-12-08T07:25:00+00:00
